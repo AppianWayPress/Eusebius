@@ -4,7 +4,7 @@ Diglot and epub editions of works of Eusebius. Everything available under a Crea
 
 ## Translation Source Disclaimer
 
-Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that these translations are machine-generated. There are several older works such as these that are either not available in English or only available in old and difficult to read translations. This translation is an attempt to provide a readable and fairly literal modern English translation of the source text. The process that created this translation has done its best to mitigate hallucinations, but there may still be translation issues.
+Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that these translations are machine-generated. There are several older works such as these that are either not available in English or only available in inaccessible or old and difficult to read translations. These translations are an attempt to provide a readable and fairly literal modern English translations these texts. The process that created these translations has done its best to mitigate hallucinations, but there may still be translation issues.
 
 ## Editions
 
