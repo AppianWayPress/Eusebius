@@ -1,9 +1,12 @@
 # Eusebius
-Diglot and epub editions of works of Eusebius.
+
+Diglot and epub editions of works of Eusebius. Everything available under a Creative Commons Attribution-ShareAlike 4.0 International License ([more info](https://creativecommons.org/licenses/by-sa/4.0/)).
+
+## Translation Source Disclaimer
+
+Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that these translations are machine-generated. There are several older works such as these that are either not available in English or only available in old and difficult to read translations. This translation is an attempt to provide a readable and fairly literal modern English translation of the source text. The process that created this translation has done its best to mitigate hallucinations, but there may still be translation issues.
 
 ## Editions
-
-The following editions of Eusebius are available:
 
 ### The Preparation of the Gospel (Praeperatio Evangelica)
 
