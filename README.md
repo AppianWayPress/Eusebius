@@ -17,8 +17,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-Preparation.pdf)
-* [ePub](epub/paperback-Preparation.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-Preparation.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-Preparation.epub)
 
 ### The Proof of the Gospel (Demonstratio Evangelica)
 
@@ -29,8 +29,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-Demonstration.pdf)
-* [ePub](epub/paperback-Demonstration.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-Demonstration.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-Demonstration.epub)
 
 ### On Ecclesiastical Theology (περὶ τῆς ἐκκλησιαστικῆς θεολογίας)
 
@@ -41,8 +41,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-EcclTheology.pdf)
-* [ePub](epub/paperback-EcclTheology.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-EcclTheology.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-EcclTheology.epub)
 
 ### The History of the Church (Historia Ecclesiastica)
 
@@ -53,5 +53,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files 
 
-* [Diglot (PDF)](diglot/diglot-HistoryChurch.pdf)
-* [ePub](epub/paperback-HistoryChurch.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-HistoryChurch.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-HistoryChurch.epub)
